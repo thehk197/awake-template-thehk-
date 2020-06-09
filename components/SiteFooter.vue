@@ -5,7 +5,7 @@
     <br />
     <a href="https://www.linkedin.com/in/harshitkumar197/"> Made with <span style="color: #e25555;">&#9829;</span> By HK </a>
 	<div class="social">
-	<font-awesome-icon icon="youtubeplay" /><font-awesome-icon icon="instagram" />
+	
   </footer>
 </template>
 
