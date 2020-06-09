@@ -26,7 +26,7 @@ export const modulesSettings = {
     imports: [
       {
         set: '@fortawesome/free-solid-svg-icons',
-        icons: ['faTimes', 'faSearch', 'faEnvelope', 'faUser', 'faBriefcase']
+        icons: ['faTimes', 'faSearch', 'faEnvelope', 'faUser', 'faBriefcase', 'fab fa-instagram', 'fab fa-facebook-square', 'fab fa-twitter', 'fab fa-whatsapp', 'fab fa-youtube']
       }
     ]
   },
@@ -49,6 +49,6 @@ export const modulesSettings = {
     disable: process.env.NODE_ENV === 'development'
   },
   'google-gtag': {
-    id: siteConfig.googleAnalytics.id
+    id:UA-168801679-1
   }
 }

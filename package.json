@@ -1,9 +1,9 @@
 {
-  "name": "nuxtlify",
+  "name": "Catalyst Coder",
   "version": "1.0.0",
-  "description": "Blog template for Nuxt.js/Netlify",
-  "author": "Daniel Kelly",
-  "license": "MIT",
+  "description": "Blog for Catalyst Coder",
+  "author": "Harshit Kumar",
+  "license": "HK",
   "scripts": {
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "precommit": "npm run lint",
