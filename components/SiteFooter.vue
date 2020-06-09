@@ -5,7 +5,9 @@
     <br />
     <a href="https://www.linkedin.com/in/harshitkumar197/"> Made with <span style="color: #e25555;">&#9829;</span> By HK </a>
 	<div class="social">
-	<a href="#"><i class="fab fa-youtube"></i></a><a href="#"><i class="fab fa-instagram"></i></a>
+	<h2>Follow Us</h2>
+	<a href="https://www.youtube.com/channel/UCOyYK29kVXQvknRwdW_3-YQ"><i class="fab fa-youtube"></i></a><a href="https://www.instagram.com/catalystcoder/"><i class="fab fa-instagram"></i></a>
+	</div>
   </footer>
 </template>
 
@@ -21,5 +23,10 @@ footer {
   padding: 20px 10px;
   text-align: center;
   transition: 0.5s ease all;
+}
+social{
+  font-size: 20px;
+  margin: 20px 20px 20px 20px;
+
 }
 </style>
