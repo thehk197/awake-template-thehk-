@@ -6,7 +6,18 @@
     <a href="https://www.linkedin.com/in/harshitkumar197/"> Made with <span style="color: #e25555;">&#9829;</span> By HK </a>
 	<div class="social">
 	<h2>Follow Us</h2>
-	<a href="https://www.youtube.com/channel/UCOyYK29kVXQvknRwdW_3-YQ"><i class="fab fa-youtube"></i></a><a href="https://www.instagram.com/catalystcoder/"><i class="fab fa-instagram"></i></a>
+	<a href="https://www.youtube.com/channel/UCOyYK29kVXQvknRwdW_3-YQ"><i class="fab fa-youtube" data-v-0efc0558="" aria-hidden="true" style="
+    padding: 0px 20px 0px 10px;
+    font-size: 35px;
+"></i></a>
+	<a href="https://www.instagram.com/catalystcoder/"><i class="fab fa-instagram" data-v-0efc0558="" aria-hidden="true" style="
+    padding: 0px 20px 0px 10px;
+    font-size: 35px;
+"></i></a>
+	<a href="https://twitter.com/catalyst_coder"><i class="fab fa-twitter" data-v-0efc0558="" aria-hidden="true" style="
+    padding: 0px 20px 0px 10px;
+    font-size: 35px;
+"></i></a>
 	</div>
   </footer>
 </template>

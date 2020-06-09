@@ -15,9 +15,13 @@ export default {
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: process.env.UA-168801679-1
+    id:UA-168801679-1
   },
   mainMenu: [
+  {
+      name: 'Categories',
+      link: '/categories'
+    },
     {
       name: 'About',
       link: '/about'
@@ -26,10 +30,7 @@ export default {
       name: 'Contact',
       link: '/contact'
     },
-    {
-      name: 'Categories',
-      link: '/categories'
-    },
+    
     
   ],
   hero: {
