@@ -9,8 +9,8 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Catalyst Coder',
+  tagline: 'Design with Love',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -30,16 +30,7 @@ export default {
       name: 'Categories',
       link: '/categories'
     },
-    {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
-    }
+    
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
@@ -61,7 +52,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'catalystcoder' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
@@ -74,7 +65,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://ieee-asiet.us19.list-manage.com/subscribe/post?u=7523ba0a4df306b3360d6f22b&amp;id=b816c2965f'
     },
     custom: {
       on: false,
