@@ -26,7 +26,7 @@ export const modulesSettings = {
     imports: [
       {
         set: '@fortawesome/free-solid-svg-icons',
-        icons: ['faTimes', 'faSearch', 'faEnvelope', 'faUser', 'faBriefcase', 'fab fa-instagram', 'fab fa-facebook-square', 'fab fa-twitter', 'fab fa-whatsapp', 'fab fa-youtube']
+        icons: ['faTimes', 'faSearch', 'faEnvelope', 'faUser', 'faBriefcase',]
       }
     ]
   },
