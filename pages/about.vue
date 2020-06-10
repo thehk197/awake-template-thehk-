@@ -13,9 +13,12 @@
             <strong>
               Catalyst Coder is a group of people came together to spread the knowledge they have to the society.
             </strong>
+			<br>
 			<subtitle>
-			The purpose behind the foundation behind <code>Catalyst Coder</code> was to free and good knowledge which we learn here with the others<br>
-			So people don't have to face the problems which we faced while learning the same thing<br>
+			The purpose behind the foundation of the group <h3><code>Catalyst Coder</code> was to share knowledge which we learn here with the others for free
+			So the people don't have to face the problems which we faced while learning the same thing<br>
+			<h4>#togetherwelearn</h4>
+			<h4>#togetherwegrow</h4>
 			<br>
 			<br>
 			<br>
@@ -23,7 +26,7 @@
 			<br>
 			<br>
 			<h3>Whats App and Telegram groups will be formed soon </h3>
-			<h2>Stay Tuned for that</h2>
+			<h2>Stay Tuned for that!!!!</h2>
 			</subtitle>
           </p>
         </div>
