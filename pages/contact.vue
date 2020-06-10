@@ -27,10 +27,13 @@
               <br />
               <div class="content">
                 <p>
-                  Hi I am Harshit
-				  A tech and Web Development enthusit
-				  This is my blog
-				  Feel free to surf through
+                  Hi I am Harshit.<br>
+				  A tech enthusit<br> 
+				  and Web Developer.<br>
+				  I am still on learning process<br>
+				  and exploring new things daily<br>
+				  I made this blog for the sole purpose to share my knowledge with the world for free<br>
+				  Feel free to surf to my blog and my YouTube channel<br>
                 </p>
               </div>
             </article>
