@@ -40,4 +40,9 @@ social{
   margin: 20px 20px 20px 20px;
 
 }
+
+.social a i {
+    padding: 0px 20px 0px 10px;
+    font-size: 35px;
+}
 </style>
