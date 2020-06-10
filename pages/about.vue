@@ -18,19 +18,13 @@
 
         <div class="tile is-ancestor">
           <div class="tile is-parent">
-            <article class="tile is-child box">
-              
-            </article>
+            
           </div>
           <div class="tile is-parent">
-            <article class="tile is-child box">
-              
-            </article>
+            
           </div>
           <div class="tile is-parent">
-            <article class="tile is-child box">
-              
-            </article>
+            
           </div>
         </div>
       </template>
