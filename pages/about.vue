@@ -11,7 +11,7 @@
           <h3>About Catalyst Coder</h3>
           <p>
             <strong>
-              Catalyst Coder is a group of people came together to spread the knowledge they have to the society.
+              Catalyst Coder is a group of people came together to spread the knowledge they have with the society.
             </strong>
 			<br>
 			<br>
