@@ -14,8 +14,10 @@
               Catalyst Coder is a group of people came together to spread the knowledge they have to the society.
             </strong>
 			<br>
+			<br>
+			<br>
 			<subtitle>
-			The purpose behind the foundation of the group <h3><code>Catalyst Coder</code> was to share knowledge which we learn here with the others for free
+			The purpose behind the foundation of the group <h5><code>Catalyst Coder</code></h5> was to share knowledge which we learn here with the others for free
 			So the people don't have to face the problems which we faced while learning the same thing<br>
 			<h4>#togetherwelearn</h4>
 			<h4>#togetherwegrow</h4>
