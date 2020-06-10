@@ -29,7 +29,7 @@
                 <p>
                   Hi I am Harshit.<br>
 				  A tech enthusit<br> 
-				  and Web Developer.<br>
+				  and a Web Developer.<br>
 				  I am still on learning process<br>
 				  and exploring new things daily<br>
 				  I made this blog for the sole purpose to share my knowledge with the world for free<br>
