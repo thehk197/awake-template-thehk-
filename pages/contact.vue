@@ -39,7 +39,7 @@
             </article>
           </div>
           <div class="tile is-parent is-8">
-            <article class="tile is-child box">
+            
   <form name="contact" method="POST" data-netlify="true">
   <!-- Name -->
     <div class="field">
@@ -97,7 +97,7 @@
       </button>
     </div>
 </form>
-            </article>
+            
           </div>
         </div>
       </template>
