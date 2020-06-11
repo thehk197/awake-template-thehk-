@@ -40,9 +40,7 @@
           </div>
           <div class="tile is-parent is-8">
             
-              <form name="contact" method="post"
-    data-netlify="true"
-    data-netlify-honeypot="bot-field" >
+              <form name="contact" action="post" data-netlify="true" >
   <input type="hidden" name="form-name" value="ask-question" />
     <!-- Name -->
     <div class="field">
@@ -93,6 +91,8 @@
         ></textarea>
       </div>
     </div>
+	<div class="field">
+	<div data-netlify-recaptcha="true"></div>
     <div class="control">
       <button class="button is-primary" type="submit">
         Contact Us
