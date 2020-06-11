@@ -81,7 +81,14 @@ display:none!important;
 }
 
 .freebirdDisclaimerColor, .freebirdDisclaimerColor a{
-display:none!impoartant;
+display:none!important;
+}
+.freebirdFormviewerViewFooterEmbeddedBackground {
+    display: none!important;
+}
+.freebirdSolidBackground {
+     background-color: white!important;
+    color: rgba(255, 255, 255, 1);
 }
 
 </style>
