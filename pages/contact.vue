@@ -28,7 +28,7 @@
               <div class="content">
                 <p>
                   Hi I am Harshit.<br>
-				  A tech enthusit<br> 
+				  A tech enthusit<br>
 				  and a Web Developer.<br>
 				  I am still on learning process<br>
 				  and exploring new things daily<br>
@@ -39,7 +39,7 @@
             </article>
           </div>
           <div class="tile is-parent is-8">
-            
+
   <form name="contact" method="POST" data-netlify="true">
   <!-- Name -->
     <div class="field">
@@ -97,7 +97,7 @@
       </button>
     </div>
 </form>
-            
+
           </div>
         </div>
       </template>
