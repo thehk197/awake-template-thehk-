@@ -1,5 +1,5 @@
 <template>
-  <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true" netlify-honeypot="bot-field">
+  <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
    <p class="hidden">
     <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
   </p>
