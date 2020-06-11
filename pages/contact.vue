@@ -66,3 +66,8 @@ export default {
   components: { ContactForm }
 }
 </script>
+<style>
+form {
+    width: -webkit-fill-available;
+}
+</style>
