@@ -66,7 +66,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://ieee-asiet.us19.list-manage.com/subscribe/post?u=7523ba0a4df306b3360d6f22b&amp;id=b816c2965f'
+        'https://app.us19.list-manage.com/subscribe/post?u=7523ba0a4df306b3360d6f22b&amp;id=b816c2965f'
     },
     custom: {
       on: false,
