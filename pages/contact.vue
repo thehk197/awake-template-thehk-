@@ -40,7 +40,7 @@
           </div>
           <div class="tile is-parent is-8">
             
-              <form name="contact" action="post" data-netlify="true" >
+              <form action="post" name="contact" data-netlify="true" netlify>
   <input type="hidden" name="form-name" value="ask-question" />
     <!-- Name -->
     <div class="field">
