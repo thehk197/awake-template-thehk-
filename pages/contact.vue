@@ -39,9 +39,9 @@
             </article>
           </div>
           <div class="tile is-parent is-8">
-            <article class="tile is-child box">
+            
               <contact-form />
-            </article>
+            
           </div>
         </div>
       </template>
