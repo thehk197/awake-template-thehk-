@@ -1,8 +1,5 @@
 <template>
-  <form name="contact" method="post"
-    data-netlify="true"
-    data-netlify-honeypot="bot-field" >
-  <input type="hidden" name="form-name" value="ask-question" />
+  <form>
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
@@ -53,7 +50,7 @@
       </div>
     </div>
     <div class="control">
-      <button class="button is-primary" type="submit">
+      <button class="button is-primary">
         Contact Us
       </button>
     </div>

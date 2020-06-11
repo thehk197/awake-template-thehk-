@@ -39,67 +39,9 @@
             </article>
           </div>
           <div class="tile is-parent is-8">
-            
-              <form action="post" name="contact" data-netlify="true" netlify>
-  <input type="hidden" name="form-name" value="ask-question" />
-    <!-- Name -->
-    <div class="field">
-      <label class="label is-medium">Name</label>
-      <div class="control has-icons-left">
-        <input class="input is-medium" type="text" placeholder="John Smith" />
-        <span class="icon is-small is-left">
-          <font-awesome-icon icon="user" />
-        </span>
-      </div>
-    </div>
-    <!-- Email -->
-    <div class="field">
-      <label class="label is-medium">Email</label>
-      <div class="control has-icons-left">
-        <input
-          class="input is-medium"
-          type="email"
-          placeholder="you@email.com"
-        />
-        <span class="icon is-small is-left">
-          <font-awesome-icon icon="envelope" />
-        </span>
-      </div>
-    </div>
-    <!-- Subject -->
-    <div class="field">
-      <label class="label is-medium">Subject</label>
-      <div class="control has-icons-left">
-        <input
-          class="input is-medium"
-          type="text"
-          placeholder="Brief Summary"
-        />
-        <span class="icon is-small is-left">
-          <font-awesome-icon icon="briefcase" />
-        </span>
-      </div>
-    </div>
-    <!-- Message -->
-    <div class="field">
-      <label class="label is-medium">Message</label>
-      <div class="control">
-        <textarea
-          class="textarea"
-          placeholder="Detailed description of your comment, request, etc"
-          rows="8"
-        ></textarea>
-      </div>
-    </div>
-	<div class="field">
-	<div data-netlify-recaptcha="true"></div>
-    <div class="control">
-      <button class="button is-primary" type="submit">
-        Contact Us
-      </button>
-    </div>
-  </form>
-            
+            <article class="tile is-child box">
+              <contact-form />
+            </article>
           </div>
         </div>
       </template>
@@ -124,8 +66,3 @@ export default {
   components: { ContactForm }
 }
 </script>
-<style>
-form {
-    width: -webkit-fill-available;
-}
-</style>
