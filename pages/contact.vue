@@ -40,7 +40,9 @@
           </div>
           <div class="tile is-parent is-8">
             <article class="tile is-child box">
+			<div class="contact">
               <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdp4hoIvqfk6L0UzeUU9D8-i3Pt2PyRxvD1FlkYNhL-yoiATQ/viewform?embedded=true" width="640" height="905" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+			  </div>
             </article>
           </div>
         </div>
@@ -66,3 +68,20 @@ export default {
   components: { ContactForm }
 }
 </script>
+<style>
+.contact iframe{
+height:905px!important;
+
+}
+.freebirdSolidBackground{
+background-color:white!important;
+}
+.m2 .freebirdFormviewerViewNavigationPasswordWarning{
+display:none!important;
+}
+
+.freebirdDisclaimerColor, .freebirdDisclaimerColor a{
+display:none!impoartant;
+}
+
+</style>
